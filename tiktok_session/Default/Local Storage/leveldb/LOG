@@ -1,0 +1,6 @@
+2026/07/21-13:37:05.739 8270 Reusing MANIFEST C:\Users\Samuel\Documents\GitHub\Automação_Tiktok\tiktok_session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/21-13:37:05.742 8270 Recovering log #10
+2026/07/21-13:37:05.744 8270 Reusing old log C:\Users\Samuel\Documents\GitHub\Automação_Tiktok\tiktok_session\Default\Local Storage\leveldb/000010.log 
+2026/07/21-13:38:05.752 8270 Level-0 table #14: started
+2026/07/21-13:38:05.759 8270 Level-0 table #14: 22524 bytes OK
+2026/07/21-13:38:05.761 8270 Delete type=0 #10
